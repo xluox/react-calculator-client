@@ -1,0 +1,8 @@
+.log {
+  width: 30%;
+  height: 50%;
+  position: absolute;
+  top: 10%;
+  left: 60%;
+  border-style: solid;
+}
